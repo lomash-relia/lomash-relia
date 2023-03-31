@@ -6,11 +6,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lomash-relia&label=Profile%20views&color=0e75b6&style=flat" alt="lomash-relia" /> </p>
 
-- 🌱 I’m currently learning ** open-source cross platform app development with Flutter **
+- 🌱 I’m currently learning **open-source cross platform app development with Flutter**
 
-- 👨‍💻 All of my projects are available at [github.com/lomash-relia](github.com/lomash-relia)
+- 👨‍💻 All of my projects are available at here on [github.com/lomash-relia](github.com/lomash-relia)
 
-- 💬 Ask me about **flutter, content writing and public speaking**
+- 💬 Ask me about **Flutter, APIs, content writing and public speaking**
 
 - 📫 How to reach me **linkedin.com/in/lomash-relia**
 
