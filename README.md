@@ -1,16 +1,16 @@
 <h1 align="center">Hi 👋, I'm Lomash Relia</h1>
-<h3 align="center">I am Flutter developer from India</h3>
+<h3 align="center">I am Flutter dev from India</h3>
 
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/l3fPlHQOHUzYRufm7E/giphy.gif">
 </br>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lomash-relia&label=Profile%20views&color=0e75b6&style=flat" alt="lomash-relia" /> </p>
 
-- 🌱 I’m currently learning **Flutter and app development**
+- 🌱 I’m currently learning **Flutter and open source cross platform app development **
 
 - 👨‍💻 All of my projects are available at [github.com/lomash-relia](github.com/lomash-relia)
 
-- 💬 Ask me about **flutter,content writing and public speaking**
+- 💬 Ask me about **flutter, content writing and public speaking**
 
 - 📫 How to reach me **linkedin.com/in/lomash-relia**
 
