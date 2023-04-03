@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Lomash Relia</h1>
 <h3 align="center">I am Flutter dev from India</h3>
 
-<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/l3fPlHQOHUzYRufm7E/giphy.gif">
+<img align="right" alt="funny gif" width="300" src="https://media.giphy.com/media/l3fPlHQOHUzYRufm7E/giphy.gif">
 </br>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lomash-relia&label=Profile%20views&color=0e75b6&style=flat" alt="lomash-relia" /> </p>
@@ -12,7 +12,7 @@
 
 - 💬 Ask me about **Flutter, APIs, content writing and public speaking**
 
-- 📫 How to reach me **linkedin.com/in/lomash-relia**
+- 📫 How to reach me [linkedin.com/in/lomash-relia](linkedin.com/in/lomash-relia)
 
 - ⚡ Fun fact **I think I would make a fine clone trooper xD**
 
