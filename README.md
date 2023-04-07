@@ -12,7 +12,7 @@
 
 - 💬 Ask me about **Flutter, APIs, content writing and public speaking**
 
-- 📫 How to reach me [linkedin.com/in/lomash-relia](www.linkedin.com/in/lomash-relia)
+- 📫 How to reach me [linkedin.com/in/lomash-relia](https://www.linkedin.com/in/lomash-relia/)
 
 - ⚡ Fun fact **I think I would make a fine clone trooper xD**
 
