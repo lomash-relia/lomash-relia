@@ -12,13 +12,13 @@
 
 - 💬 Ask me about **Flutter, APIs, content writing and public speaking**
 
-- 📫 How to reach me [linkedin.com/in/lomash-relia](linkedin.com/in/lomash-relia)
+- 📫 How to reach me [linkedin.com/in/lomash-relia](www.linkedin.com/in/lomash-relia)
 
 - ⚡ Fun fact **I think I would make a fine clone trooper xD**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/lomash relia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lomash relia" height="30" width="40" /></a>
+<a href="www.linkedin.com/in/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lomash relia" height="30" width="40" /></a>
 <a href="https://instagram.com/lomash_irl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="lomash_irl" height="30" width="40" /></a>
 </p>
 
