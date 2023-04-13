@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **open-source cross platform app development with Flutter**
 
-- 👨‍💻 All of my projects are available at here on [github.com/lomash-relia](github.com/lomash-relia)
+- 👨‍💻 All of my projects are available at here on [github.com/lomash-relia](https://github.com/lomash-relia)
 
 - 💬 Ask me about **Flutter, APIs, content writing and public speaking**
 
