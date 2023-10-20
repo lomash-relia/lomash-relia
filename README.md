@@ -1,15 +1,13 @@
 <h1 align="center">Hi 👋, I'm Lomash Relia</h1>
 <h3 align="center">I am a Flutter dev and Deep learning enthusiast from India</h3>
 
-<img align="right" alt="funny gif" width="300" src="https://media.giphy.com/media/gLcUG7QiR0jpMzoNUu/giphy.gif">
+<img align="right" alt="funny gif" width="300" src="https://media.giphy.com/media/g79am6uuZJKSc/giphy.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lomash-relia&label=Profile%20views&color=0e75b6&style=flat" alt="lomash-relia" /> </p>
 
-- 🌱 I’m currently learning **Deep Learning with TensorFlow, ScikitLearn and much more**
+- 🌱 I’m currently learning **Deep Learning with Golang, Deep Learning and much more**
 
-- 👨‍💻 All of my projects are available at [github.com/lomash-relia](https://github.com/lomash-relia)
-
-- 💬 Ask me about **Flutter, Deep Learning, Computer Vision, content writing and public speaking**
+- 💬 Ask me about **Flutter, Deep Learning, Computer Vision and public speaking**
 
 - 📫 Connect with me [linkedin.com/in/lomash-relia](https://www.linkedin.com/in/lomash-relia/)
 
@@ -22,6 +20,17 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"><a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a><a href="https://www.python.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="40" height="40"/> </a><a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a><a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> </p>
+<p align="left">
+  
+  <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a>
+  <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a>
+  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> 
+  <a href="https://go.dev/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/golang/golang-icon.svg" alt="go" width="40" height="40"/> </a>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lomash-relia&show_icons=true&locale=en&layout=compact&hide=javascript,html" alt="lomash-relia" /> <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lomash-relia&" alt="lomash-relia" /></p>
+  <a href="https://www.pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a>
+  <a href="https://www.python.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="40" height="40"/> </a>
+  </p>
+
+<p>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lomash-relia&show_icons=true&locale=en&layout=compact&hide=javascript,html" alt="lomash-relia" /> <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lomash-relia&" alt="lomash-relia" />
+</p>
