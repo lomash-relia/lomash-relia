@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lomash-relia&label=Profile%20views&color=0e75b6&style=flat" alt="lomash-relia" /> </p>
 
-- 🌱 I’m currently learning **Deep Learning with Golang, Deep Learning and much more**
+- 🌱 I’m currently learning **Deep Learning, Backend Frameworks and much more**
 
 - 💬 Ask me about **Flutter and Deep Learning**
 
