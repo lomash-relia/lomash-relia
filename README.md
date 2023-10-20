@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Deep Learning with Golang, Deep Learning and much more**
 
-- 💬 Ask me about **Flutter, Deep Learning, Computer Vision and public speaking**
+- 💬 Ask me about **Flutter and Deep Learning**
 
 - 📫 Connect with me [linkedin.com/in/lomash-relia](https://www.linkedin.com/in/lomash-relia/)
 
@@ -32,5 +32,6 @@
   </p>
 
 <p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lomash-relia&show_icons=true&locale=en&layout=compact&hide=javascript,html" alt="lomash-relia" /> <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lomash-relia&" alt="lomash-relia" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lomash-relia&show_icons=true&locale=en&layout=compact&hide=javascript,html" alt="lomash-relia" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lomash-relia&" alt="lomash-relia" />
 </p>
