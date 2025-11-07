@@ -1,13 +1,15 @@
 <h1 align="center">Hello 👋, I'm Lomash Relia</h1>
-<h3 align="center">Deep Learning Enthusiast | Flutter Developer | Robotics Engineer 🇮🇳</h3>
+<h3 align="center">Deep Learning Enthusiast | Flutter Developer | Robotics Engineer 🇮🇳 </h3>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=lomash-relia&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" /> </p>
 
-<img align="right" alt="gif of a hardworking man xD" width="300" src="https://media.giphy.com/media/g79am6uuZJKSc/giphy.gif">
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lomash-relia&show_icons=true&locale=en&layout=compact&hide=javascript,html" alt="Top languages" />
+  <img alt="gif of a hardworking man xD"  width="400" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnpxZjhwdTZqMXI3Mm4xMGtkbTAwdG52Mjg0ZXZsaTlhcmFoMzkwdyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/cvmugq5cuJ4nC/giphy.gif">
+</p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=lomash-relia&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" /> </p>
-
-- 🌱 Right now, I'm building skills in deep learning, backend frameworks, and robotics automation. 
-- 🛰️ I was a research intern at Space Applications Center, Indian Space Research Organization (ISRO), working on a compact AI-driven planetary robot system. 
-- 💬 Reach out if you want to chat about deep learning, computer vision, backend tech, Flutter apps, or autonomous systems. 
+- 🌱 Right now, I'm building skills in deep learning, backend frameworks, and AI robotics. 
+- 👨‍🚀 I was a research intern at Space Applications Center, Indian Space Research Organization (ISRO), working on robotics in Planetary Space Data Processing Division. 
+- 💬 Reach out if you want to chat about deep learning, computer vision, backend tech, autonomous systems, or Flutter apps. 
 - 📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/lomash-relia/) to talk projects or opportunities.
 - ⚡ Fun fact: If the Republic ever needs a Clone Trooper with my skills, I'm ready for duty xD 
 
@@ -29,7 +31,7 @@
 <h3 align="left">About Me <a href="https://www.linkedin.com/in/lomash-relia/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="15" width="20" /></a> </h3>
 
 
-I’m currently pursuing an M.Tech in Autonomous Systems and Machine Intelligence, fueled by a deep enthusiasm for robotics, artificial intelligence, and control systems. My motivation lies in tackling challenging problems through the integration of optimization techniques and deep learning with intelligent hardware and software systems.
+I’m currently pursuing an M.Tech in Autonomous Systems and Machine Intelligence, fueled by a deep enthusiasm for robotics, artificial intelligence, and control systems. My motivation lies in tackling challenging problems through the integration of optimization techniques and modern deep learning with intelligent hardware and software systems.
 
 ---
 
@@ -64,8 +66,3 @@ I’m currently pursuing an M.Tech in Autonomous Systems and Machine Intelligenc
   I added TensorFlow Lite models to a Flutter app so users could upload medical images and get instant detection results through a clean interface. 
 
 ---
-
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lomash-relia&show_icons=true&locale=en&layout=compact&hide=javascript,html" alt="Top languages" />
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lomash-relia&" alt="GitHub streak" />
-</p>
