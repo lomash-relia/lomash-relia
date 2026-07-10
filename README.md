@@ -1,68 +1,121 @@
-<h1 align="center">Hello 👋, I'm Lomash Relia</h1>
-<h3 align="center">Deep Learning Enthusiast | Flutter Developer | Robotics Engineer 🇮🇳 </h3>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=lomash-relia&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" /> </p>
+<div align="center">
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lomash-relia&show_icons=true&locale=en&layout=compact&hide=javascript,html" alt="Top languages" />
-  <img alt="gif of a hardworking man xD"  width="400" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnpxZjhwdTZqMXI3Mm4xMGtkbTAwdG52Mjg0ZXZsaTlhcmFoMzkwdyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/cvmugq5cuJ4nC/giphy.gif">
-</p>
+```
+██╗      ██████╗ ███╗   ███╗ █████╗ ███████╗██╗  ██╗    ██████╗ ███████╗██╗     ██╗ █████╗ 
+██║     ██╔═══██╗████╗ ████║██╔══██╗██╔════╝██║  ██║    ██╔══██╗██╔════╝██║     ██║██╔══██╗
+██║     ██║   ██║██╔████╔██║███████║███████╗███████║    ██████╔╝█████╗  ██║     ██║███████║
+██║     ██║   ██║██║╚██╔╝██║██╔══██║╚════██║██╔══██║    ██╔══██╗██╔══╝  ██║     ██║██╔══██║
+███████╗╚██████╔╝██║ ╚═╝ ██║██║  ██║███████║██║  ██║    ██║  ██║███████╗███████╗██║██║  ██║
+╚══════╝ ╚═════╝ ╚═╝     ╚═╝╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝    ╚═╝  ╚═╝╚══════╝╚══════╝╚═╝╚═╝  ╚═╝
+```
 
-- 🌱 Right now, I'm building skills in deep learning, backend frameworks, and AI robotics. 
-- 👨‍🚀 I was a research intern at Space Applications Center, Indian Space Research Organization (ISRO), working on robotics in Planetary Space Data Processing Division. 
-- 💬 Reach out if you want to chat about deep learning, computer vision, backend tech, autonomous systems, or Flutter apps. 
-- 📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/lomash-relia/) to talk projects or opportunities.
-- ⚡ Fun fact: If the Republic ever needs a Clone Trooper with my skills, I'm ready for duty xD 
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&duration=2800&pause=900&color=00F7FF&center=true&vCenter=true&width=680&lines=AI+Engineer+%7C+Physical+AI+%26+Robotics;Computer+Vision+%7C+LLMs+%7C+Visual+Servoing;M.Tech+%40+ABV-IIITM+Gwalior;Deploying+AI+from+the+cloud+to+the+edge" alt="Typing SVG" />
 
----
+<img src="https://komarev.com/ghpvc/?username=lomash-relia&label=Profile%20Views&color=00F7FF&style=for-the-badge" alt="Profile views" />
 
-<h3 align="left">Technical Skills & Tools</h3>
-<p align="left">
-  <a href="https://www.python.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="40" height="40"/> </a>
-  <a href="https://www.pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a>
-  <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/gilbarbara/logos/blob/main/logos/fastapi-icon.svg" alt="fastapi" width="40" height="40"/> </a>
-  <a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a>
-  <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a>
-  <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a>
-  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a>
-</p>
+</div>
 
----
+<br>
 
-<h3 align="left">About Me <a href="https://www.linkedin.com/in/lomash-relia/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="15" width="20" /></a> </h3>
+```
+   ⚡ SYSTEM LOG ────────────────────────────────────────────────
+   > booting lomash.exe ...
+   > loading modules: [ros2] [mujoco] [pytorch] [flutter] [fpga]
+   > affiliation: M.Tech Autonomous Systems & Machine Intelligence
+   >               @ ABV-IIITM Gwalior (CGPA 9.78/10)
+   > prior training: B.Tech CE, CHARUSAT (CGPA 9.41/10)
+   > former: intern @ ISRO - Space Applications Centre
+   > status: RESEARCHER MODE - ENGAGED
+   > current_mission: VLAs and Multimodal Multilingual Langual Models
+   ──────────────────────────────────────────────────────────────
+```
 
+## 🚀 About This Unit
 
-I’m currently pursuing an M.Tech in Autonomous Systems and Machine Intelligence, fueled by a deep enthusiasm for robotics, artificial intelligence, and control systems. My motivation lies in tackling challenging problems through the integration of optimization techniques and modern deep learning with intelligent hardware and software systems.
+AI Engineer working at the intersection of **computer vision, LLMs, and robotics** - building and deploying models that go from simulation to real hardware. Graduate Researcher (MTP student) at **ABV-IIITM Gwalior**, developing vision-based control pipelines for the **SO-101 robotic arm** and researching **Vision-Language-Action (VLA) models** for autonomous planetary manipulation.
 
----
+Previously trained at the **ISRO Space Applications Centre**, deploying quantized deep learning models for real-time edge inference on planetary rovers.
 
-<h3 align="left">Professional Experience</h3>
-
-- **Research Intern, Space Applications Center, ISRO** (Jan 2025 – Jul 2025)  
-  I put together an AI-powered planetary rover on Raspberry Pi 4B with Bookworm Linux, added monocular and stereo photogrammetry for navigation, and got quantized deep learning models running smoothly on limited hardware. 
-
-- **Student Researcher, Indian Institute of Tropical Meteorology** (Aug 2024 – Nov 2024)  
-  I worked on predicting tropical cyclone strength from multi-spectral satellite images using neural networks, and my findings got published. 
-
-- **Full Stack Engineer, Capitalize (Remote)** (May 2024 – Jul 2024)  
-  I created Flutter apps connected to a FastAPI backend, set up automated data pipelines with Selenium, and made database operations more reliable with better error handling. 
-
-- **AI/ML Freelancer, Upwork (Remote)** (Dec 2022 – Jun 2023)  
-  I handled computer vision and NLP projects for clients around the world, and built automation tools that pulled insights from data using AI. 
+```yaml
+class Lomash:
+    role: "AI Engineer - Computer Vision, LLMs & Robotics"
+    callsign: "lomash_irl"
+    focus: ["computer vision", "LLMs/VLMs/VLA", "edge AI deployment"]
+    hobby: ["low-cost hardware", "applied AI"]
+    status: "IEEE Space 2026 Ambassador"
+```
 
 ---
 
-<h3 align="left">Key Projects</h3>
+## 🧬 Tech Stack - The Arsenal
 
-- **AI-Powered Planetary Rover**  
-  I built a rover that handles both autonomous navigation and manual controls, with on-device AI for spotting objects and estimating depth in real time, all while keeping heat and power in check. 
+<div align="center">
 
-- **Deep Learning for Cyclone Intensity Estimation**  
-  I recreated cutting-edge CNN models to analyze satellite images and tested how well they performed against benchmarks. 
+<img src="https://skillicons.dev/icons?i=python,cpp,pytorch,tensorflow,ros,opencv,flutter,dart,fastapi,postgres,firebase,git,linux,raspberrypi" />
 
-- **LLM-Based Knowledge Extraction System**  
-  I designed a system that turns text into structured knowledge using retrieval-augmented generation with FastAPI and LangChain, and shared it at a conference. 
+</div>
 
-- **Brain Tumor Detection Mobile App**  
-  I added TensorFlow Lite models to a Flutter app so users could upload medical images and get instant detection results through a clean interface. 
+> *"A Jedi's strength flows from the Force. Mine flows from a well-tuned loss curve."*
 
 ---
+
+## 🛰️ Current Voyage
+
+- 🦾 **Eye-in-Hand IBVS for SO-101 Arm** *(MuJoCo, OpenCV, Python)* - Image-Based Visual Servoing with ArUco detection and Chaumette's pixel-based control, converging reliably to 30–40 px feature error, with joint/velocity limits, automatic divergence recovery, and a JSON-based teaching tool
+- 🧭 **SO-101 control systems + VLA research** - mathematical control formulations in MuJoCo, plus Vision-Language-Action models for autonomous planetary manipulation, under the SERB-backed bimanual on-orbit testbed program
+- 📸 **Structure-from-Motion pipeline** - 3D-scanning with the SO-101 gripper camera, Depth Anything 3, Open3D, damped least-squares IK
+
+---
+
+## 🎯 Mission Archive
+
+| Project | Description |
+|---|---|
+| 🤖 **AI-Powered Planetary Rover** *(Jan–Jul 2025)* | Raspberry Pi 4B rover on Bookworm OS, 65°C thermal cap, object detection + monocular depth estimation, dual autonomous/VNC-manual navigation |
+| 🌪️ **Tropical Cyclone Intensity Regression** *(IITM Pune, Aug–Nov 2024)* | 4-channel deep learning pipeline mapping satellite imagery to cyclone intensity - published in the WGNE Blue Book |
+| 🧠 **Knowledge Extraction System using LLMs** | RAG pipeline, FastAPI + LangChain, text-to-knowledge transformation |
+| 💼 **Full Stack @ Capitalize** *(June 2024)* | Flutter + FastAPI apps, Selenium data pipelines with rotating proxies at 99% success rate |
+
+---
+
+## 🏅 Achievements & Leadership
+
+- 🎖️ **IEEE Space 2026 Ambassador** - representing IEEE space initiatives; also Student Branch Chapter Secretary, IEEE MTTS IIIT Gwalior
+- 👨‍🏫 **Teaching Assistant**, ABV-IIITM Gwalior
+- 📈 **Academic Rankings** - KEA PGCET 2025: Rank 52 · GATE 2025 (Data Science & AI): AIR 4687
+- 📚 **Publications** - IEEE Xplore (2025, 2026) · WGNE Blue Book (2024) · Springer research collection (2024)
+- 🎤 **Conference Presentations** - IEEE SPACE 2026 · InGARSS 2025 · PRL Venus SC 2024 · ICHCSC 2024
+
+---
+
+<div align="center">
+
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnpxZjhwdTZqMXI3Mm4xMGtkbTAwdG52Mjg0ZXZsaTlhcmFoMzkwdyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/cvmugq5cuJ4nC/giphy.gif" width="380">
+
+</div>
+
+---
+## 📊 Stats
+
+<div align="center">
+
+![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=lomash-relia&theme=tokyo-night)
+![Followers](https://img.shields.io/github/followers/lomash-relia?style=for-the-badge&color=00F7FF&labelColor=black)
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=lomash-relia&theme=tokyonight&hide_border=true" />
+
+</div>
+---
+
+## 📡 Establish Comms
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/lomash-relia)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/lomash-relia)
+[![Google Scholar](https://img.shields.io/badge/Scholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white)](https://scholar.google.com/)
+[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lomashrelia@gmail.com)
+
+*"May the gradients converge and the loss curves hold."* 🤖⚡
+
+</div>
