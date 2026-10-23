@@ -27,7 +27,7 @@
    > prior training: B.Tech CE, CHARUSAT (CGPA 9.41/10)
    > former: intern @ ISRO - Space Applications Centre
    > status: RESEARCHER MODE - ENGAGED
-   > current_mission: VLAs and Multimodal Multilingual Langual Models
+   > current_mission: VLAs and Multimodal Language Models
    ──────────────────────────────────────────────────────────────
 ```
 
