@@ -96,16 +96,43 @@ class Lomash:
 </div>
 
 ---
-## 📊 Stats
 
-<div align="center">
+<h2 align="center">📊 GitHub Analytics</h2>
 
-![GitHub Contributions](https://isometric-contributions-spectrewolf8.onrender.com/api/graph?username=lomash-relia&theme=tokyonight&stats=true)
-![Followers](https://img.shields.io/github/followers/lomash-relia?style=for-the-badge&color=00F7FF&labelColor=black)
+<p align="center">
+  <em>Building consistently. Learning continuously.</em>
+</p>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=lomash-relia&theme=tokyonight&hide_border=true" />
+<p align="center">
+  <a href="https://github.com/lomash-relia">
+    <img src="https://img.shields.io/github/followers/lomash-relia?style=for-the-badge&logo=github&logoColor=white&label=Followers&color=7AA2F7&labelColor=1A1B27" alt="GitHub Followers" />
+  </a>
+</p>
 
-</div>
+### 🌌 Contribution Activity
+
+<p align="center">
+  <img
+    src="https://isometric-contributions-spectrewolf8.onrender.com/api/graph?username=lomash-relia&amp;theme=tokyonight&amp;stats=true"
+    alt="GitHub Contribution Graph"
+    width="100%"
+  />
+</p>
+
+### 🔥 Contribution Streak
+
+<p align="center">
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com/?user=lomash-relia&amp;theme=tokyonight&amp;hide_border=true"
+    alt="GitHub Contribution Streak"
+    width="70%"
+  />
+</p>
+
+<p align="center">
+  <sub>Consistency over intensity. Every contribution counts.</sub>
+</p>
+
 ---
 
 ## 📡 Establish Comms
