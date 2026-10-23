@@ -21,6 +21,7 @@
    ⚡ SYSTEM LOG ────────────────────────────────────────────────
    > booting lomash.exe ...
    > loading modules: [ros2] [mujoco] [pytorch] [flutter] [fpga]
+   > Engineer @ KissanAI [https://kissan.ai/]
    > affiliation: M.Tech Autonomous Systems & Machine Intelligence
    >               @ ABV-IIITM Gwalior (CGPA 9.78/10)
    > prior training: B.Tech CE, CHARUSAT (CGPA 9.41/10)
@@ -99,7 +100,7 @@ class Lomash:
 
 <div align="center">
 
-![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=lomash-relia&theme=tokyo-night)
+![GitHub Contributions](https://isometric-contributions-spectrewolf8.onrender.com/api/graph?username=lomash-relia&theme=tokyonight&stats=true)
 ![Followers](https://img.shields.io/github/followers/lomash-relia?style=for-the-badge&color=00F7FF&labelColor=black)
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=lomash-relia&theme=tokyonight&hide_border=true" />
